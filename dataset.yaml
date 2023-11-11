@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/ML/license_Plate_detection
+val: /content/drive/MyDrive/ML/license_Plate_detection
+nc: 1
+names: ['license']
